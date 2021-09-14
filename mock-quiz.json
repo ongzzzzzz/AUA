@@ -1,0 +1,13 @@
+// this file is an example of quiz.json
+[
+	{
+		"question": "What color is the sky?",
+		"choices": ["blue", "green", "yellow", "red"],
+		"answer": 0
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"choices": ["23", "24", "26", "29"],
+		"answer": 2
+	}
+]
